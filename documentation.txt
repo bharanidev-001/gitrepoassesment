@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 nano documentation.txt
 echo "These files has been changed"
 
+=======
+Show the enhanced styles of .md/ mark down file using readme.so for the above project
+>>>>>>> b9652b4e28c747dd5b262418c9bc8e924c41c767
