@@ -1,0 +1,3 @@
+nano documentation.txt
+echo "These files has been changed"
+
